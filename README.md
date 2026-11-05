@@ -1,2 +1,2 @@
-# CoastvsInland-Temperature-Visualizaztion
+# CoastvsInland-Temperature-Visualization
 Hoquiam and Spokane are both in Washington State, yet their weather is very different. Hoquiam sits on Grays Harbor, facing the open Pacific Ocean, which holds heat and softens temperature changes. Spokane lies about 300 miles inland, east of the Cascade Mountains, in a dry basin that warms and cools quickly. This report uses 20 years of hourly temperature data from the Open-Meteo Historical Weather API to compare the two cities.
